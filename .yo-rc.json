@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ibcs.hmb"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "gateway",
+    "baseName": "hr_managment_backend",
+    "packageName": "com.ibcs.hmb",
+    "packageFolder": "com/ibcs/hmb",
+    "serverPort": "4004",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NTI0OTg1ZWNmNjQ5NDVmZGM5NjcwOTgzODNkNzE1ZDA0ZWQ0ZDJiNDI0OGFmZGM5OTg0ZjAwYWM0ODNiZWE5MjAxZWM4NTRhNzgwMWU5NDJkMTc4ZmIzMmM4MjQxZDY2OWQ3Y2ViNzlkNGIwZmFlN2M1MjRiNTE0OGJmZDg1MjI=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "creationTimestamp": 1609742764663,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
